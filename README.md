@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=pallabbarman&label=Profile%20views&color=0e75b6&style=flat" alt="pallabbarman" /></p>
 
-<p>Experienced front-end engineer with 2+ years of hands-on experience. Passionate about creating beautiful and user-friendly interfaces. Feel free to contact me anytime!</p>
+<p>Experienced front-end engineer with 2 years of hands-on experience. Passionate about creating beautiful and user-friendly interfaces. Feel free to contact me anytime!</p>
 
 -   🌱 I’m currently learning **Node.js**
 -   📄 You can view my resume [here](https://drive.google.com/file/d/1FME0rrxxchhstrzDC1yMvke54H7vLfW_/view)
@@ -15,8 +15,8 @@
 ```
 {
     Languages: ['TypeScript', 'JavaScript', 'Python'],
-    Library: ['React', 'Redux', 'React Testing Library', 'Mongoose', 'Prisma'],
-    Framework: ['Next.js', 'Jest', 'Express'],  
+    Libraries: ['React', 'Redux', 'React Testing Library', 'Mongoose', 'Prisma'],
+    Frameworks: ['Next.js', 'Jest', 'Express'],  
     Databases: ['PostgreSql', 'MySql', 'MongoDB'],
     Tools: ['Docker', 'Postman', 'Trello/Clickup/Ora', 'Slack'],
 }
