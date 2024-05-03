@@ -4,21 +4,20 @@
 
 <p>Experienced front-end engineer with 2 years of hands-on experience. Passionate about creating beautiful and user-friendly interfaces. Feel free to contact me anytime!</p>
 
--   🌱 I’m currently learning **Node.js**
--   📄 You can view my resume [here](https://drive.google.com/file/d/1FME0rrxxchhstrzDC1yMvke54H7vLfW_/view)
--   📫 Reach me via: pallab.cse.bubt@gmail.com
--   ⚡ Fun fact: I love watching movies & TV series
-
+- 🌱 I’m currently learning **Node.js**
+- 📄 You can view my resume [here](https://drive.google.com/file/d/1FME0rrxxchhstrzDC1yMvke54H7vLfW_/view)
+- 📫 Reach me via: pallabbharman1@gmail.com
+- ⚡ Fun fact: I love watching movies & TV series
 
 ### 💻 Languages and Tools
 
 ```
 {
     Languages: ['TypeScript', 'JavaScript', 'Python'],
-    Libraries: ['React', 'Redux', 'React Testing Library', 'Mongoose', 'Prisma'],
-    Frameworks: ['Next.js', 'Jest', 'Express'],  
+    Libraries: ['React', 'Redux', 'React Testing Library', 'Storybook', 'Mongoose', 'Prisma'],
+    Frameworks: ['Next.js', 'Jest', 'Vitest', 'Express'],
     Databases: ['PostgreSql', 'MySql', 'MongoDB'],
-    Tools: ['Docker', 'Postman', 'Trello/Clickup/Ora', 'Slack'],
+    Tools: ['Docker', 'Postman', 'Trello/Ora', 'Slack'],
 }
 ```
 
