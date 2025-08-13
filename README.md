@@ -5,7 +5,7 @@
 <p>Experienced front-end engineer with 2 years of hands-on experience. Passionate about creating beautiful and user-friendly interfaces. Feel free to contact me anytime!</p>
 
 - 🌱 I’m currently learning **Node.js**
-- 📄 You can view my resume [here](https://drive.google.com/file/d/1FME0rrxxchhstrzDC1yMvke54H7vLfW_/view)
+- 📄 You can view my resume [here](https://drive.google.com/file/d/1TGzkaWOhhtbFmbxcgDZNH8q6fFkEL3aJ/view)
 - 📫 Reach me via: pallabbharman1@gmail.com
 - ⚡ Fun fact: I love watching movies & TV series
 
